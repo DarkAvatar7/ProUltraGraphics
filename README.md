@@ -19,15 +19,17 @@ For some settings to work, first you must add the following lines to "Config.wtf
 
  
 
-SET spelleffectlevel ""
-SET smallcull ""
-SET extshadowquality ""
-SET showfootprints ""
-SET environmentDetail ""
-SET detailDoodadAlpha ""
-SET characterAmbient ""
-SET overridefarclip ""
-SET horizonfarclip ""
+
+    SET spelleffectlevel ""
+    SET smallcull ""
+    SET extshadowquality ""
+    SET showfootprints ""
+    SET environmentDetail ""
+    SET detailDoodadAlpha ""
+    SET characterAmbient ""
+    SET overridefarclip ""
+    SET horizonfarclip ""
+
 
  
 
